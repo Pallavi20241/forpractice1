@@ -6,6 +6,7 @@ public class ForAll {
 		
 		System.out.println("suvarna");
 		System.out.println("vishal");
+		System.out.println("hi all");
 
 	}
 
